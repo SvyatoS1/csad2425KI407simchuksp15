@@ -41,3 +41,5 @@ D:\Projects\csad2425\TicTacToeWPF\obj\Debug\net8.0-windows\refint\TicTacToeWPF.d
 D:\Projects\csad2425\TicTacToeWPF\obj\Debug\net8.0-windows\TicTacToeWPF.pdb
 D:\Projects\csad2425\TicTacToeWPF\obj\Debug\net8.0-windows\TicTacToeWPF.genruntimeconfig.cache
 D:\Projects\csad2425\TicTacToeWPF\obj\Debug\net8.0-windows\ref\TicTacToeWPF.dll
+D:\Projects\csad2425\TicTacToeWPF\bin\Debug\net8.0-windows\Castle.Core.dll
+D:\Projects\csad2425\TicTacToeWPF\bin\Debug\net8.0-windows\Moq.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TicTacToeWPF
 {
-    class GameStatus
+    public class GameStatus
     {
         public bool gameOver;
         public bool tie;
