@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QEtVx2ApmPU=",
+  "dgSpecHash": "TKA3Jn1X4IE=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\csad2425\\TicTacToeWPF\\TicTacToeWPF.csproj",
+  "projectFilePath": "D:\\Projects\\csad2425\\client\\TicTacToeWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simch\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\simch\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\csad2425\\TicTacToeWPF\\TicTacToeWPF.csproj": {}
+    "D:\\Projects\\csad2425\\client\\TicTacToeWPF.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\csad2425\\TicTacToeWPF\\TicTacToeWPF.csproj": {
+    "D:\\Projects\\csad2425\\client\\TicTacToeWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\csad2425\\TicTacToeWPF\\TicTacToeWPF.csproj",
+        "projectUniqueName": "D:\\Projects\\csad2425\\client\\TicTacToeWPF.csproj",
         "projectName": "TicTacToeWPF",
-        "projectPath": "D:\\Projects\\csad2425\\TicTacToeWPF\\TicTacToeWPF.csproj",
+        "projectPath": "D:\\Projects\\csad2425\\client\\TicTacToeWPF.csproj",
         "packagesPath": "C:\\Users\\simch\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\csad2425\\TicTacToeWPF\\obj\\",
+        "outputPath": "D:\\Projects\\csad2425\\client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simch\\AppData\\Roaming\\NuGet\\NuGet.Config",

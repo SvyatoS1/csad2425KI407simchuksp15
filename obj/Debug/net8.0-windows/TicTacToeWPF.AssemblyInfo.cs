@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToeWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788bf703c805b1a3239856a09a0bf4aaedfa8ec3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3a726c0f3528063f2ae2f19c76f6745f4196603")]
 [assembly: System.Reflection.AssemblyProductAttribute("TicTacToeWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TicTacToeWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
